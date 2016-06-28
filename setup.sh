@@ -9,6 +9,7 @@ npm install babel-core \
             babel-preset-react \
             babel-preset-stage-0 \
             babel-register \
+            babel-eslint \
             express \
             react-hot-loader \
             eslint \
