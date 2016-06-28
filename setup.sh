@@ -1,5 +1,7 @@
 npm install react \
-            react-dom --save
+            react-dom \
+            isomorphic-fetch \
+            es6-promise --save
 
 npm install babel-core \
             babel-loader \
@@ -9,5 +11,10 @@ npm install babel-core \
             babel-register \
             express \
             react-hot-loader \
+            eslint \
+            eslint-config-airbnb \
+            eslint-plugin-import \
+            eslint-plugin-jsx-a11y \
+            eslint-plugin-react \
             webpack \
             webpack-dev-server --save-dev
